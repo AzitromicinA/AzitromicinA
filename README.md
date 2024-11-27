@@ -52,7 +52,12 @@
 <div align="center">
   <h3>Main skills → Front-end</h3>
   
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,styledcomponents)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,)](https://skillicons.dev)
+</div>
+<div align="center">
+  <h3>Main SOs</h3>
+  
+  [![My Skills](https://skillicons.dev/icons?i=kali,linux,ubuntu,windows)](https://skillicons.dev)
 </div>
 
 <div align="center">
