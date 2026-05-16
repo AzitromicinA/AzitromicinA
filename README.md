@@ -2,18 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Rocha;)](https://git.io/typing-svg)<br>
 
-
-<div align="center">
-  <br>
-  <p align="center">
-    <b>Visitors</b>
-  </p>  
-  <p align="center">
-    <img align="center" src="https://profile-counter.glitch.me/{AzitromicinA}/count.svg" />
-  </p> 
-  <br>
-</div>
-
 <div align="center">
   
 ## Sobre mim
@@ -25,11 +13,6 @@
 📚 *Estududioso de Ethical Hacking e tecnicas de Bug Bounty* <br>
 🚀 *Cursando Front-End Development.* <br>
 
-</div>
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AzitromicinA&show_icons=true&count_private=true&hide_border=true&title_color=FFD700&icon_color=E8E5BC&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Maclean github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzitromicinA&layout=compact&hide_border=true&title_color=FFD700&text_color=E8E5BC&bg_color=0d1117" />
 </div>
 
 <br><br>
